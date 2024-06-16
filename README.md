@@ -45,4 +45,4 @@ I am an Intern Frontend Developer <img src="https://media.giphy.com/media/WUlplc
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shipy4kaRU&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shipy4kaRU&theme=highcontrast&border_radius=8" alt="GitHub Streak" /></a>
