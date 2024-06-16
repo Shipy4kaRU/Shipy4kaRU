@@ -45,5 +45,5 @@ I am an Intern Frontend Developer <img src="https://media.giphy.com/media/WUlplc
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shipy4kaRU&theme=highcontrast&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shipy4kaRU&theme=highcontrast&border_radius=8)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shipy4kaRU&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
