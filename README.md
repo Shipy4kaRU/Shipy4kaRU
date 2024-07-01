@@ -26,7 +26,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am an Intern Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am an Intern Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia!
 - :telescope: I’m styding as a Web Developer.
 - :seedling: Exploring modern web development technologies.
 - :zap: In my free time, I make up landing pages.
