@@ -12,9 +12,7 @@
   </a>
 </div>
 
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shipy4kaRU&style=flat-square&color=blue" alt=""/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <div id="header" align="center">
 < img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text"/>
