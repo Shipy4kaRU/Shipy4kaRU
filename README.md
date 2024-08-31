@@ -12,9 +12,8 @@
   </a>
 </div>
 
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+World!+Let's+be+friends?+👉👈;Second+line+of+text)]
+
 <!-- ****************** обо мне ****************** -->
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
