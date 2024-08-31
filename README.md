@@ -12,12 +12,9 @@
   </a>
 </div>
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)]
-
-<div id="header" align="center">
-< img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text"/>
 </div>
-
 <!-- ****************** обо мне ****************** -->
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
