@@ -12,8 +12,14 @@
   </a>
 </div>
 
-<h1 align='center'>
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+World!+Let's+be+friends?;Please👉👈)
+<h1 align="center">
+ <a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&repeat=false&random=false&width=435&lines=Hello%2C+World!+Let's+meet">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&repeat=false&random=false&width=435&lines=Hello%2C+World!+Let's+meet">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&repeat=false&random=false&width=435&lines=Hello%2C+World!+Let's+meet" alt="Typing SVG" />
+  </picture>
+ </a>
 </h1>
 
 <!-- ****************** обо мне ****************** -->
