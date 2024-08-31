@@ -12,7 +12,9 @@
   </a>
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+World!+Let's+be+friends?;Please👉👈;YES!;center=true)
+<h1 align='center'>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+World!+Let's+be+friends?;Please👉👈)
+</h1>
 
 <!-- ****************** обо мне ****************** -->
 <div align="center">
