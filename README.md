@@ -43,7 +43,7 @@ I wanna be a Frontend developer, so <img src="https://media.giphy.com/media/WUlp
 
 ### :fire: My Stats :
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shipy4kaRU&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Shipy4kaRU&show_icons=true&theme=radical" alt="GitHub stats"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shipy4kaRU&theme=highcontrast&border_radius=8)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shipy4kaRU&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
