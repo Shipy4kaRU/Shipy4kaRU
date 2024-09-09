@@ -4,7 +4,7 @@
 </div>
 <!--
 <div id="badges" align="center">
-  <a href="https://t.me/cute_ass_ducks">
+  <a href="https://t.me/arkadiy_parovozov_help">
     <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="Telegram Badge" width="40" height="40"/>
   </a>
   <a href="https://vk.com/google_was_my_idea">
