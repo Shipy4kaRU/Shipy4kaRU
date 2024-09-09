@@ -1,6 +1,6 @@
 <!-- ****************** шапка ****************** -->
 <div id="header" align="center">
-  <img src="contributions.svg" width="150"/>
+  <img src="contributions.svg"/>
 </div>
 
 <div id="badges" align="center">
