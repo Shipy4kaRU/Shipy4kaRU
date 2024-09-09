@@ -1,6 +1,6 @@
 <!-- ****************** шапка ****************** -->
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzF0amx5eW1hOGVrOTN3YWRwcWNsM2RjNXV4eTMwYWdrOHFwN2YweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="150"/>
+  <img src="contributions.svg" width="150"/>
 </div>
 
 <div id="badges" align="center">
