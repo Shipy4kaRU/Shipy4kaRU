@@ -45,6 +45,7 @@ I wanna be a Frontend developer, so <img src="https://media.giphy.com/media/WUlp
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=Shipy4kaRU&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shipy4kaRU&theme=highcontrast&border_radius=8)" alt="GitHub Streak"/>  
+</div>
+<div align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipy4kaRU&layout=compact&theme=vision-friendly-dark" alt="GitHub Stats Languages"/>
 </div>
-
