@@ -25,7 +25,7 @@
 I wanna be a Frontend developer, so <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 - :telescope: I’m styding as a Web Developer.
 - :seedling: Exploring modern web development technologies.
-- :zap: In my free time, I make up landing pages.
+<!--- :zap: In my free time, I make up landing pages.-->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
