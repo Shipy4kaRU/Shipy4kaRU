@@ -18,26 +18,26 @@
 
 <!-- ****************** обо мне ****************** -->
 
-### :woman_technologist: About Me :
-I wanna be a Frontend developer, so <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:      
+## :woman_technologist: About Me :
+##I wanna be a Frontend developer, so <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:      
 
-#### 🔭 I’m currently studying as a Web Developer   
+### 🔭 I’m currently studying as a Web Developer   
 Focusing on building responsive and user-friendly web applications.       
 
-#### 🌱 I’m exploring modern web development technologies, including:    
+### 🌱 I’m exploring modern web development technologies, including:    
 - **JavaScript**: Deepening my understanding of ES6+ features and asynchronous programming.                  
 - **React**: Learning to build dynamic user interfaces and manage state effectively with Redux.                  
 - **CSS**: Mastering CSS Grid and Flexbox for layout design, as well as exploring preprocessors like SASS.            
 - **Version Control**: Gaining proficiency in Git and GitHub for collaborative development and version management.            
 
-#### 💡 I’m passionate about creating clean, maintainable code
+### 💡 I’m passionate about creating clean, maintainable code
 Continuously improving my skills through hands-on projects.       
 
-#### 🌍 I’m also interested in contributing to open-source projects
+### 🌍 I’m also interested in contributing to open-source projects
 Learning from the developer community.
      
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -51,7 +51,7 @@ Learning from the developer community.
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" title="Node JS" **alt="Node JS" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+## :fire: My Stats :
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=Shipy4kaRU&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shipy4kaRU&theme=highcontrast&border_radius=8)" alt="GitHub Streak"/>  
