@@ -26,10 +26,10 @@ I wanna be a Frontend developer, so <img src="https://media.giphy.com/media/WUlp
 🔭 I’m currently studying as a Web Developer, focusing on building responsive and user-friendly web applications.    
 🌱 I’m exploring modern web development technologies, including:  
 <div style="margin-left: 20px;">
-    - JavaScript: Deepening my understanding of ES6+ features and asynchronous programming.      
-    - React: Learning to build dynamic user interfaces and manage state effectively with Redux.       
-    - CSS: Mastering CSS Grid and Flexbox for layout design, as well as exploring preprocessors like SASS.     
-    - Version Control: Gaining proficiency in Git and GitHub for collaborative development and version management.   
+    - JavaScript: Deepening my understanding of ES6+ features and asynchronous programming.            
+    - React: Learning to build dynamic user interfaces and manage state effectively with Redux.               
+    - CSS: Mastering CSS Grid and Flexbox for layout design, as well as exploring preprocessors like SASS.         
+    - Version Control: Gaining proficiency in Git and GitHub for collaborative development and version management.       
 </div>   
 💡 I’m passionate about creating clean, maintainable code and continuously improving my skills through hands-on projects.       
 🌍 I’m also interested in contributing to open-source projects and learning from the developer community.      
