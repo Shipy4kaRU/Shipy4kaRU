@@ -19,7 +19,7 @@
 <!-- ****************** обо мне ****************** -->
 
 ## :woman_technologist: About Me :
-##I wanna be a Frontend developer, so <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:      
+**I wanna be a Frontend developer, so** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:      
 
 ### 🔭 I’m currently studying as a Web Developer   
 Focusing on building responsive and user-friendly web applications.       
