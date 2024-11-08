@@ -55,11 +55,8 @@ Learning from the developer community.
 ## :fire: My Stats :
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=Shipy4kaRU&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shipy4kaRU&theme=highcontrast&border_radius=8)" alt="GitHub Streak"/>  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-khaki.vercel.app?user=Shipy4kaRU&theme=highcontrast&border_radius=20&card_width=500&card_height=199" alt="GitHub Streak" /></a>
 </div>
-<div align='center'>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-khaki.vercel.app?user=Shipy4kaRU&theme=highcontrast&border_radius=20&card_width=500&card_height=199" alt="GitHub Streak" /></a>
-  </div>
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipy4kaRU&layout=compact&theme=vision-friendly-dark" alt="GitHub Stats Languages"/>
 </div>
