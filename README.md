@@ -13,7 +13,7 @@
 </div>-->
 
 <h1 align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&multiline=true&width=500&height=65&lines=Hello%2C+World!++Let's+be+friends%3F;Please+%F0%9F%91%89%F0%9F%91%88" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4500&pause=1000&center=true&multiline=true&width=500&height=65&lines=Hello%2C+World!++Let's+be+friends%3F;Please+%F0%9F%91%89%F0%9F%91%88" alt="Typing SVG" /></a>
 </h1>
 
 <!-- ****************** обо мне ****************** -->
