@@ -60,5 +60,5 @@ Learning from the developer community.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipy4kaRU&layout=compact&theme=vision-friendly-dark" alt="GitHub Stats Languages"/>
 </div>
 <div align='center'>
-  <img src="https://leetcard.jacoblin.cool/moloko2004goda?theme=dark&font=Yeseva%20One" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Shipy4kaRU?theme=dark&font=Gowun%20Dodum" alt="LeetCode Stats"/>
 </div>
