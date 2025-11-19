@@ -23,13 +23,13 @@ Frontend Engineer focused on building reliable, scalable and user-centric web ap
 
 ### Core Expertise
 
-TypeScript, React, Next.js — building modular interfaces and well-structured application architectures.
+TypeScript, React, Next.js - building modular interfaces and well-structured application architectures.
 
-State Management — practical experience with Redux Toolkit, Zustand, React Query and data-driven UI patterns.
+State Management - practical experience with Redux Toolkit, Zustand, React Query and data-driven UI patterns.
 
-UI Engineering — responsive layout systems, component libraries, accessibility fundamentals, performance tuning.
+UI Engineering - responsive layout systems, component libraries, accessibility fundamentals, performance tuning.
 
-Collaboration — working closely with designers, backend teams and product stakeholders, contributing to technical discussions and code review processes.
+Collaboration - working closely with designers, backend teams and product stakeholders, contributing to technical discussions and code review processes.
 
 ### What I Care About
 
