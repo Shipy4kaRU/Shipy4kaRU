@@ -45,10 +45,6 @@ Teams that value engineering quality, pragmatic decision-making and a product-dr
 
 ## :fire: My Stats :
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Shipy4kaRU&show_icons=true&theme=radical" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=Shipy4kaRU&theme=highcontrast&border_radius=20&card_width=500&card_height=199" alt="GitHub Streak" />
-</div>
-<div align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipy4kaRU&layout=compact&theme=vision-friendly-dark" alt="GitHub Stats Languages"/>
 </div>
 <div align='center'>
