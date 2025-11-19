@@ -19,38 +19,29 @@
 <!-- ****************** обо мне ****************** -->
 
 ## :woman_technologist: About Me :
-**I wanna be a Frontend developer, so** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:      
+Frontend Engineer focused on building reliable, scalable and user-centric web applications. I value clarity, maintainability and thoughtful architecture in every part of the product I work on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### 🔭 I’m currently studying as a Web Developer   
-Focusing on building responsive and user-friendly web applications.       
+### Core Expertise
 
-### 🌱 I’m exploring modern web development technologies, including:    
-- **JavaScript**: Deepening my understanding of ES6+ features and asynchronous programming.                  
-- **React**: Learning to build dynamic user interfaces and manage state effectively with Redux.                  
-- **CSS**: Mastering CSS Grid and Flexbox for layout design, as well as exploring preprocessors like SASS.            
-- **Version Control**: Gaining proficiency in Git and GitHub for collaborative development and version management.            
+TypeScript, React, Next.js — building modular interfaces and well-structured application architectures.
 
-### 💡 I’m passionate about creating clean, maintainable code
-Continuously improving my skills through hands-on projects.       
+State Management — practical experience with Redux Toolkit, Zustand, React Query and data-driven UI patterns.
 
-### 🌍 I’m also interested in contributing to open-source projects
-Learning from the developer community.
-     
+UI Engineering — responsive layout systems, component libraries, accessibility fundamentals, performance tuning.
 
-## :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gulp/gulp-plain.svg" title="Gulp" **alt="Gulp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/npm/npm-original-wordmark.svg" title="Npm" **alt="Npm" width="40" height="40"/>
-</div>
+Collaboration — working closely with designers, backend teams and product stakeholders, contributing to technical discussions and code review processes.
+
+### What I Care About
+
+Predictable, maintainable codebases that scale with the team.
+
+Clean abstractions, consistent patterns and a strong focus on Developer Experience.
+
+Delivering interfaces that feel smooth, intuitive and aligned with real user needs.
+
+### Looking For
+
+Teams that value engineering quality, pragmatic decision-making and a product-driven mindset.
 
 ## :fire: My Stats :
 <div align='center'>
